@@ -12,10 +12,10 @@ function reverseElements(n, array) {
     }
     while(newArray.length > 0) {
         
-        str += newArray.pop() + ' '
+        str += newArray.pop() + ' ';
     }
     
-    console.log(str)
+    return str;
     
   
 
