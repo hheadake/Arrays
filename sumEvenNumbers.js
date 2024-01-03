@@ -18,6 +18,8 @@ function sumEvenNumbers (array) {
 
 } sumEvenNumbers(['3','5','7','9'])
 
+
+
 function sumNumbers (array) {
     let totalSum = 0;
     array.forEach(element => {
