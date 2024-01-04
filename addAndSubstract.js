@@ -25,7 +25,8 @@ function addOrSubstract(input) {
             inputSum += currentNum
             finalSum += newArray [i]
          }
-         console.log(newArray)
+
+        console.log(newArray)
         console.log(inputSum)
         console.log(finalSum)
     
